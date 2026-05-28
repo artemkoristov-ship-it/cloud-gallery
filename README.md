@@ -4,34 +4,33 @@ Gallery App
 Gallery App — вебзастосунок для віддаленого доступу до галереї фотографій. Система дозволяє користувачам проходити реєстрацію та авторизацію, завантажувати фотографії, переглядати власну галерею та видаляти зображення.
 
 Використані технології
-Frontend
-React
-Vite
-Axios
-CSS
-Backend
-Node.js
-Express.js
-MongoDB
-Mongoose
-JWT
-Multer
-Основні можливості
-Реєстрація користувачів
-Авторизація користувачів
-JWT-захист API
-Завантаження фотографій
-Перегляд фотографій
-Видалення фотографій
-Запуск проєкту
-Backend
-cd server
-npm install
-npm run dev
-Frontend
-cd client
-npm install
-npm run dev
+Frontend,
+React,
+Vite,
+Axios,
+CSS,
+Backend,
+Node.js,
+Express.js,
+MongoDB,
+Mongoose,
+JWT,
+Multer,
+Основні можливості:
+Реєстрація користувачів,
+Авторизація користувачів,
+JWT-захист API,
+Завантаження фотографій,
+Перегляд фотографій,
+Видалення фотографій,
+Запуск проєкт:
+Backend:
+cd server,
+npm install,
+npm run dev,
+Frontend:
+cd client,
+npm install,
+npm run dev,
 Автор проєкту
-
 Студент навчальної практики
